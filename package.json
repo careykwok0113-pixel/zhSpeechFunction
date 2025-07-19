@@ -1,0 +1,8 @@
+{
+  "name": "zh-speech-function",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "microsoft-cognitiveservices-speech-sdk": "^1.33.0"
+  }
+}
